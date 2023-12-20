@@ -15,7 +15,7 @@
   - In preparation for my CompTIA certification
 
 
-# Check my other repositories to see what I have been working on/completed.
+## Check my other repositories to see what I have been working on/completed.
 
 
 <!--
