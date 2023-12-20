@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 🔭 These are the projects that I'm currently working on:
-##  - Making an designer form for customer invoice management on Visual Basics
+  - Making an designer form for customer invoice management on Visual Basics
     - User Stories:
       - I want to enter a customer's name (or part of it) into a search box, so that I can quickly retrieve and view the customer's details and associated invoices.
       - I want to see a list of invoices related to that customer, so I can have a consolidated view of all transactions associated with the selected customer.
