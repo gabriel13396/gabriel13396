@@ -14,6 +14,8 @@
 # 🌱 I'm currently learning more about Information and Network Security
   - In preparation for my CompTIA certification
 
+# Here are some programming languages I use:
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 ## Check my other repositories to see what I have been working on/completed.
 
